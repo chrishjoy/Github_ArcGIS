@@ -1,3 +1,8 @@
+<!--
+To see this Markdown file in Preview mode
+
+ctrl + shift + v
+-->
 # Using the AI assistant in VS Code for ArcGIS tasks
 
 This short guide explains how to use the AI tool in VS Code to automate ArcGIS/ArcPy tasks (what to provide, how to prompt, and practical tips).
@@ -62,4 +67,3 @@ Optional helpful info:
 - Mention the style (fill color, opacity, outline width) and the assistant can apply programmatic symbology changes or create a `.lyrx` you can import.
 
 ---
-If you want, I can add this file to the project README or generate a short video-style checklist for new users.
